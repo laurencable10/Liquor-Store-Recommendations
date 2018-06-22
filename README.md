@@ -8,7 +8,6 @@ A liquor store owner in Iowa is looking to expand to new locations and has hired
 For this project, the following fundamental data science skills are practiced:
 - Using scikit-learn and stats models to create Linear Regression Models
 - How goals and business objectives translate to model fit
-- How to optimizde models using cross-validation
 
 ## Project Summary
 ### Problem Statement:
@@ -18,7 +17,7 @@ _Predict what potential locations in Iowa will result in the highest sales by in
 Choose to use either [The full dataset](https://www.dropbox.com/s/5oiz27mhvsiibo8/iowa_liquor_sales_proj_2.csv?dl=0) or 
 [this 10% dataset version of Iowa liquor sales](https://drive.google.com/file/d/0Bx2SHQGVqWaseDB4QU9ZSVFDY2M/view?usp=sharing). You may want to use it anyway to test your code since it will be faster.
 
-### Loading Data & Performing Basic Operations
+  ### 1. Loading Data & Performing Basic Operations
 Checking for null values, converting datatypes, and cleaning data to prepare for EDA.
 
 ### Exploratory Data Analysis
