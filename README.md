@@ -17,14 +17,14 @@ _Predict what potential locations in Iowa will result in the highest sales by in
 Choose to use either [The full dataset](https://www.dropbox.com/s/5oiz27mhvsiibo8/iowa_liquor_sales_proj_2.csv?dl=0) or 
 [this 10% dataset version of Iowa liquor sales](https://drive.google.com/file/d/0Bx2SHQGVqWaseDB4QU9ZSVFDY2M/view?usp=sharing). You may want to use it anyway to test your code since it will be faster.
 
-  ### 1. Loading Data & Performing Basic Operations
+### 1. Loading Data & Performing Basic Operations
 Checking for null values, converting datatypes, and cleaning data to prepare for EDA.
 
-### Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 Investigating varibale distributions, frequencies, and relationships by compiling several visualizations and aggregate functions with the ultimate goal of selecting features to be used in the model building process. 
 
-### Model Building
-Utilzing Scikit-Learn and Stats Models to build Linear Regression models, evaluating performance with their respective metrics. Interpreting the coefficients for all variables will produce the location recommendations for the new storefront, as well as provide additional insight into a strategic business plan.  
+### 3. Model Building
+Utilzing Scikit-Learn and Stats Models to build Linear Regression models, then evaluating performance with their respective metrics. Interpreting the coefficients for all variables will produce the location recommendations for the new storefront, as well as provide additional insight into a strategic business plan.  
 
-### Plotting Results
+### 4. Plotting Results
 To further solidify the accuracy of the Linear Regression models built, actual values will be plotted against the predicted values
